@@ -1,0 +1,1 @@
+# amazon-opendistro-for-elasticsearch-1.1.0-bitbucket-pipelines
